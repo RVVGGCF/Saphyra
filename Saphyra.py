@@ -6442,10 +6442,10 @@ def usage():
     print ('New loaded Botnets: 1,798,445,657')
     print ('Usage: Saphyra.py (url)')
     print ('Example: Saphyra.py http://site.com/')
-    print "\a"
+    print ("\a")
 
 
-print \
+print (\
     """
 
                                 ,-.
@@ -6481,7 +6481,7 @@ ___<__(|) _   **-/  / /   /
     |/,-'
     '
                                                        
-"""
+""")
 
 
 # http request
