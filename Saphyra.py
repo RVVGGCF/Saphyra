@@ -6508,7 +6508,7 @@ def httpcall(url):
     except urllib2.HTTPError as e:
         # print e.code
         set_flag(1)
-        print "----->>>Saphyra attack started sended <<<-----"
+        print ("----->>>Saphyra attack started sended <<<-----")
         code = 500
     except urllib2.URLError as e:
         # print e.reason
